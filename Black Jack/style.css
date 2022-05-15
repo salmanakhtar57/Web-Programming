@@ -1,0 +1,33 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("https://digitalsynopsis.com/wp-content/uploads/2017/02/beautiful-color-gradients-backgrounds-028-plum-plate.png");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+/* 3. Make sure that the two buttons have some space between
+each other when they are rendered out vertically */
+button {
+    color: white;
+    width: 150px;
+    background: rgb(35, 172, 218);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border: 10px;
+    border-color: black;
+    border-radius: 9px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+
+}
